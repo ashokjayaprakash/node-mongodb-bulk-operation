@@ -1,0 +1,14 @@
+{
+  "name": "node-mongodb-bulk-operation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ashok JayaPrakash <ashokjp93@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
+}
